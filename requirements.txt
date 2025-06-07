@@ -1,0 +1,8 @@
+backtrader
+ta
+nsepy
+smartapi-python
+xgboost
+python-telegram-bot
+logzero
+websocket
